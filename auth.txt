@@ -1,0 +1,2 @@
+Auth module - v1
+Auth validation
